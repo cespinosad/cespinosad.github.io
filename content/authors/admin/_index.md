@@ -2,9 +2,6 @@
 # Display name
 title: Cristian Espinosa
 
-# Name pronunciation (optional)
-name_pronunciation:
-
 # Full name (for SEO)
 first_name: Cristian
 last_name: Espinosa
