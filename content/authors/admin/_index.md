@@ -3,7 +3,7 @@
 title: Cristian Andres Espinosa Diaz
 
 # Name pronunciation (optional)
-name_pronunciation: fdfds
+name_pronunciation:
 
 # Full name (for SEO)
 first_name: Cristian
@@ -21,8 +21,8 @@ role: Graduate Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University College London (UCL)
+    url: https://www.ucl.ac.uk/economics/ucl-department-economic
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
