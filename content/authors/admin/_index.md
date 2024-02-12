@@ -21,9 +21,6 @@ organizations:
   - name: University College London (UCL)
     url: https://www.ucl.ac.uk/economics/ucl-department-economics
 
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests lie in.
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -57,6 +54,3 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
