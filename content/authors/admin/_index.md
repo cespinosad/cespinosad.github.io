@@ -29,7 +29,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:cristian.espinosa@ucl.ac.uk
-  - icon: twitter
+  - icon: brands/x
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
     label: Follow me on Twitter
