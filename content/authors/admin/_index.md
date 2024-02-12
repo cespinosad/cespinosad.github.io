@@ -3,7 +3,7 @@
 title: Cristian Andres Espinosa Diaz
 
 # Name pronunciation (optional)
-name_pronunciation:
+name_pronunciation: fdfds
 
 # Full name (for SEO)
 first_name: Cristian
