@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Cristian Andres Espinosa Diaz
+title: Cristian Espinosa
 
 # Name pronunciation (optional)
 name_pronunciation:
@@ -22,7 +22,7 @@ role: Graduate Student
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University College London (UCL)
-    url: https://www.ucl.ac.uk/economics/ucl-department-economic
+    url: https://www.ucl.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
