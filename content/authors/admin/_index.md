@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student
+role: PhD Student in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University College London (UCL)
-    url: https://www.ucl.ac.uk/
+    url: https://www.ucl.ac.uk/economics/ucl-department-economics
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests lie in.
