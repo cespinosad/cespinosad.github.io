@@ -29,7 +29,7 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:cristian.espinosa@ucl.ac.uk
-  - icon: icons/brands/x-twitter.svg
+  - icon: x
     icon_pack: fab
     link: https://twitter.com/cespinosad
     label: Follow me on Twitter
