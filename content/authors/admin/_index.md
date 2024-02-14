@@ -35,6 +35,9 @@ social:
     label: Follow me on Twitter
     display:
       header: true
+  - icon: x-twitter
+    icon_pack: fab
+    link: https://twitter.com/cespinosad
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
