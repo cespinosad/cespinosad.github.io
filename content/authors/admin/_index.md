@@ -47,4 +47,4 @@ social:
 
 ---
 
-My Research areas are Empiric Macroeconomics, International Trade and Production Networks
+My Research areas of interest are Empirical Macroeconomics, International Macroeconomics, Trade and Production Networks
