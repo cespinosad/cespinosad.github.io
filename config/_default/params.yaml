@@ -108,8 +108,6 @@ extensions:
     local_backend: false
   academicons:
     enable: true
-  fontawesome:
-    enable: true
 
 # Security
 
