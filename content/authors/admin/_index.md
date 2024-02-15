@@ -37,7 +37,7 @@ social:
       header: true
   - icon: linkedin
     icon_pack: fab
-    link: www.linkedin.com/in/cristian-espinosa-201a5158
+    link: http://linkedin.com/in/cristian-espinosa-201a5158
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
