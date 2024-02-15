@@ -14,11 +14,11 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student in Economics at UCL
+role: PhD candidate in Economics {{< icon name="x-twitter" pack="fab" >}}
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University College London
+  - name: University College London (UCL)
     url: https://www.ucl.ac.uk/economics/ucl-department-economics
 
 # Social/Academic Networking
