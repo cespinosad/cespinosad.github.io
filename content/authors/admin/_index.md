@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD candidate in Economics {{< icon name="x-twitter" pack="fab" >}}
+role: PhD candidate in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
