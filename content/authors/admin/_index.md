@@ -26,34 +26,22 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:cristian.espinosa@ucl.ac.uk
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/cespinosad
-    label: Follow me on Twitter
-    display:
-      header: true
   - icon: linkedin
     icon_pack: fab
     link: http://linkedin.com/in/cristian-espinosa-201a5158
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/cespinosad
   - icon: instagram
     icon_pack: fab
     link: https://www.instagram.com/cr.espinosad/
-  # Link to a PDF of your resume/CV.
-  # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
-  # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
 ---
 I am a PhD candidate in Economics at UCL. My Supervisors are [Morten O. Ravn](https://sites.google.com/view/mortenoravn/home) and [Kalina Manova](https://www.kalinamanova.com).
 
 My Research areas of interest are Empirical Macroeconomics, International Macroeconomics, Trade and Production Networks.
 
-Before joining UCL, I worked in the Financial Policy Division of the [Central Bank of Chile](https://www.bcentral.cl/en/home). My goal was to work towards the Financial Stability Report.
+Prior to joining UCL, I served as an Economic Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home), where I contributed to the development of the Financial Stability Report.
 
 Download my [CV](uploads/resume.pdf)
 
