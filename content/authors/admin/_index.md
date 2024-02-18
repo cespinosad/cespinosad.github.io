@@ -49,5 +49,6 @@ social:
     link: uploads/resume.pdf
 
 ---
+I am a PhD candidate in Economics at UCL. My Research areas of interest are Empirical Macroeconomics, International Macroeconomics, Trade and Production Networks. My Supervisors are Morten O. Ravn and Kalina Manova.
 
-My Research areas of interest are Empirical Macroeconomics, International Macroeconomics, Trade and Production Networks
+Before joining UCL, I worked as an Economic and Financial analyst in the Financial Policy Division of the Central Bank of Chile.[Link Text](https://www.example.com)
