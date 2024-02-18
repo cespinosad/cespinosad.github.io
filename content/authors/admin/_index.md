@@ -43,6 +43,5 @@ My Research areas of interest are Empirical Macroeconomics, International Macroe
 
 Prior to joining UCL, I served as an Economic Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home), contributing towards the Financial Stability Report.
 
-Download my [CV](uploads/resume.pdf)
-
+Download my [CV](uploads/resume.pdf)                                                                                                                                                                  
 Email: [cristian.espinosad@ucl.ac.uk](mailto:cristian.espinosa@ucl.ac.uk)
