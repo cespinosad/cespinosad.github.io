@@ -26,6 +26,12 @@ organizations:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:cristian.espinosa@ucl.ac.uk
+  - icon: cv
+    icon_pack: ai
+    link: uploads/resume.pdf
   - icon: linkedin
     icon_pack: fab
     link: http://linkedin.com/in/cristian-espinosa-201a5158
@@ -44,4 +50,4 @@ My Research areas of interest are Empirical Macroeconomics, International Macroe
 Prior to joining UCL, I served as an Economic Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home), contributing towards the Financial Stability Report.
 
 Download my [CV](uploads/resume.pdf)                                                                                                                                                                  
-Email: [cristian.espinosad@ucl.ac.uk](mailto:cristian.espinosa@ucl.ac.uk)
+Email: [cristian.espinosa@ucl.ac.uk](mailto:cristian.espinosa@ucl.ac.uk)
