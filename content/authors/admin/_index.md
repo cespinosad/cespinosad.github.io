@@ -47,7 +47,7 @@ I am a PhD candidate in Economics at UCL, supervised by [Morten O. Ravn](https:/
 
 My Research areas of interest are Empirical Macroeconomics, International Macroeconomics, Trade and Production Networks.
 
-Prior to joining UCL, I served as an Economic Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home), contributing towards the Financial Stability Report.
+Prior to joining UCL, I served as an Economic Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home), working towards the Financial Stability Report.
 
 Download my [CV](uploads/resume.pdf)                                                                                                                                                                  
 Email: [cristian.espinosa@ucl.ac.uk](mailto:cristian.espinosa@ucl.ac.uk)
