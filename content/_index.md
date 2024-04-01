@@ -71,11 +71,7 @@ sections:
       columns: '2'
   - block: collection
     content:
-    title: Recent Publications
-    filters:
-         folders:
-           - publication
-         exclude_featured: true
+      title: Recent Publications
     design:
       columns: '2'
       view: citation
