@@ -82,7 +82,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Working Papers
       filters:
         folders:
           - event
