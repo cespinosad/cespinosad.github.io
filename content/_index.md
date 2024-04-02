@@ -64,7 +64,7 @@ sections:
       columns: '2'
       view: compact
   - block: collection
-    id: posts
+    id: teaching
     content:
       title: Teaching
       subtitle: ''
