@@ -1,44 +1,28 @@
 ---
-title: From protective to retaliatory tariffs Identifying trade elasticities
+title: "Historical comparison of the Chilean corporate sector's results (in Spanish)"
+authors:
+- Cristian Espinosa
+- Jorge Fernandez
+date: "2015-04-25T00:00:00Z"
+doi: ""
 
-event: Hugo Blox Builder Conference
-event_url: https://example.org
 
-location: Hugo Blox Builder HQ
+# Publication type.
+# Accepts a single type but formatted as a YAML list (for Hugo requirements).
+# Enter a publication type from the CSL standard.
+publication_types: ["article-journal"]
 
-summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: This paper analyzes the short-run effects of tariffs on Canadian trade volumes and prices. I use shifts in government trade policies, from protective to retaliatory tariffs, to identify trade elasticities. This serves for the construction of a novel instrument to estimate these elasticities at the variety level. I use 2018 Canadian retaliatory tariffs on industries distinct from those protected by the US, as an identification strategy in the IV context. The estimation for the elasticity of demand for imports is -5.2, which is twice as large as those typically reported in the literature. Given there is selection in the tariff policy design, this is a local treatment effect towards the upper tail of the elasticity distribution. On the other hand, retaliatory tariffs on industries protected by the US, are employed to obtain an estimate for the lower end of the distribution. Together, these set bounds on the average elasticity, which lies between -1.9 and -5.2.
+# Publication name and optional abbreviated publication name.
+publication: "Journal Economia Chilena (The Chilean Economy)"
+publication_short: ""
 
-# Talk start and end times.
-#   End time can optionally be hidden by prefixing the line with `#`.
-date: '2030-06-01T13:00:00Z'
-date_end: '2030-06-01T15:00:00Z'
-all_day: false
+abstract: This article presents an historical comparison of the results of companies reporting to the Superintendence of Securities and Insurance. This comparison covers periods during which the country was exposed to different economic cycles, spanning from 1994 to 2013. It analyzes in detail the Asian crisis and its subsequent recovery, the subprime crisis, and finally, the current situation.
 
-authors: Cristian Espinosa
-tags: []
 
-# Is this a featured talk? (true/false)
-featured: false
-
-links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/georgecushen
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# links:
+# - name: ""
+#   url: ""
+url_pdf: https://www.bcentral.cl/documents/33528/133333/bcch_archivo_101969_es.pdf#page=70
 
 
 ---
-
-
-Slides can be added in a few ways:
-
-- **Create** slides using Hugo Blox Builder's [_Slides_](https://docs.hugoblox.com/reference/content-types/) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://docs.hugoblox.com/reference/markdown/).
-
-Further event details, including [page elements](https://docs.hugoblox.com/reference/markdown/) such as image galleries, can be added to the body of this page.
