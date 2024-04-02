@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 publication: "Journal Economia Chilena (The Chilean Economy)"
 publication_short: ""
 
-abstract: This article proposes a methodology to estimate a stress test for the non-financial corporate sector in Chile. This is based on a detailed characterization of individual financial debt of firms, using statistical appendices compiled by the Superintendence of Securities and Insurance, which were validated using administrative records from the Superintendence of Banks and Financial Institutions and the Central Bank of Chile.
+abstract: This article puts forward a methodology to estimate an stress testing for the non-financial corporate sector in Chile. This is based on a detailed characterization of the financial debt of firms, using statistical appendices compiled by the Superintendence of Securities and Insurance, which were validated using administrative records from the Superintendence of Banks and Financial Institutions and the Central Bank of Chile.
 
 
 # links:
