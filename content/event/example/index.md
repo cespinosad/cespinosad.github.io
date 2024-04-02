@@ -1,9 +1,8 @@
 ---
-title: "Historical comparison of the Chilean corporate sector's results (in Spanish)"
+title: "From protective to retaliatory tariffs: Identifying trade elasticities"
 authors:
 - Cristian Espinosa
-- Jorge Fernandez
-date: "2015-04-25T00:00:00Z"
+date: "2024-04-01T00:00:00Z"
 doi: ""
 
 
@@ -13,16 +12,15 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Journal Economia Chilena (The Chilean Economy)"
+publication: ""
 publication_short: ""
 
-abstract: This article presents an historical comparison of the results of companies reporting to the Superintendence of Securities and Insurance. This comparison covers periods during which the country was exposed to different economic cycles, spanning from 1994 to 2013. It analyzes in detail the Asian crisis and its subsequent recovery, the subprime crisis, and finally, the current situation.
+abstract: This paper analyzes the short-run effects of tariffs on Canadian trade volumes and prices. I use shifts in government trade policies, from protective to retaliatory tariffs, to identify trade elasticities. This serves for the construction of a novel instrument to estimate these elasticities at the variety level. I use 2018 Canadian retaliatory tariffs on industries distinct from those protected by the US, as an identification strategy in the IV context. The estimation for the elasticity of demand for imports is -5.2, which is twice as large as those typically reported in the literature. Given there is selection in the tariff policy design, this is a local treatment effect towards the upper tail of the elasticity distribution. On the other hand, retaliatory tariffs on industries protected by the US, are employed to obtain an estimate for the lower end of the distribution. Together, these set bounds on the average elasticity, which lies between -1.9 and -5.2.
 
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.bcentral.cl/documents/33528/133333/bcch_archivo_101969_es.pdf#page=70
 
 
 ---
