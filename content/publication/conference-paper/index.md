@@ -1,5 +1,5 @@
 ---
-title: "Historical comparison of Chilean corporate results (in Spanish)"
+title: "Historical comparison of the Chilean corporate sector's results (in Spanish)"
 authors:
 - Cristian Espinosa
 - Jorge Fernandez
@@ -23,13 +23,7 @@ abstract: This article presents an historical comparison of the results of compa
 # - name: ""
 #   url: ""
 url_pdf: https://www.bcentral.cl/documents/33528/133333/bcch_archivo_101969_es.pdf#page=70
-url_DOI: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+
 
 ---
 
