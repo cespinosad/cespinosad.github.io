@@ -33,8 +33,6 @@ url_video: ''
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 
----
-
 
 title: "Welfare Analysis of an Optimal Carbon Tax in Chile"
 
@@ -71,3 +69,4 @@ url_video: ''
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 
 ---
+
