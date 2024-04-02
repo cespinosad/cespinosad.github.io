@@ -45,7 +45,7 @@ sections:
   - block: collection
     id: working
     content:
-      title: Working Papers
+      title: Work in progress
       filters:
         folders:
           - event
