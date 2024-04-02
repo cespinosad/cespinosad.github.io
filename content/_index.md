@@ -43,6 +43,16 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: working
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+  - block: collection
     id: featured
     content:
       title: Publications
@@ -53,16 +63,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: working
-    content:
-      title: Working Papers
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: collection
     id: teaching
     content:
