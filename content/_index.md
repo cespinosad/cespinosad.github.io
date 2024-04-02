@@ -63,7 +63,7 @@ sections:
     design:
       columns: '2'
       view: compact
-      - block: collection
+  - block: collection
     id: posts
     content:
       title: Teaching
