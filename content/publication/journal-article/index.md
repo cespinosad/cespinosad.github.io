@@ -1,5 +1,6 @@
 ---
 title: "Welfare Analysis of an Optimal Carbon Tax in Chile"
+
 authors:
 - Cristian Espinosa
 - Jorge Fornero
