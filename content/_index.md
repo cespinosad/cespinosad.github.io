@@ -43,6 +43,27 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
   - block: collection
+    id: featured
+    content:
+      title: Publications
+      filters:
+        folders:
+          - publication
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Working Papers
+      filters:
+        folders:
+          - event
+    design:
+      columns: '2'
+      view: compact
+      - block: collection
     id: posts
     content:
       title: Teaching
@@ -69,25 +90,4 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'
-  - block: collection
-    id: featured
-    content:
-      title: Publications
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Working Papers
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
 ---
