@@ -14,7 +14,7 @@ main:
     url: '#featured'
     weight: 50
   - name: Teaching
-    url: '#talks'
+    url: '#teaching'
     weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
