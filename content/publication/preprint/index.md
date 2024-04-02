@@ -1,12 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Firm’s Stress Testing: An Application to the Chilean non-financial corporate sector (in Spanish)"
 authors:
-- admin
+- Cristian Espinosa
+- Jorge Fernandez
+- Francisco Vasquez
 date: "2019-04-07T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2017-08-01T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,10 +19,7 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
-
-# Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+abstract: This article proposes a methodology to estimate a stress test for the non-financial corporate sector in Chile. This is based on a detailed characterization of individual financial debt of firms, using statistical appendices compiled by the Superintendence of Securities and Insurance, which were validated using administrative records from the Superintendence of Banks and Financial Institutions and the Central Bank of Chile.
 
 tags:
 - Source Themes
@@ -29,21 +28,14 @@ featured: false
 links:
 - name: Custom Link
   url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+url_pdf: https://www.bcentral.cl/c/document_library/get_file?uuid=5c268999-b247-c67d-3c77-6a2fec5cf4d5&groupId=33528
+url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
 url_slides: ''
 url_source: '#'
 url_video: '#'
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
-  focal_point: ""
-  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
@@ -60,9 +52,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
