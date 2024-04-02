@@ -1,5 +1,5 @@
 ---
-title: "Firm’s Stress Testing: An Application to the Chilean non-financial corporate sector (in Spanish)"
+title: "Firm’s stress testing: An application to the Chilean non-financial corporate sector (in Spanish)"
 authors:
 - Cristian Espinosa
 - Jorge Fernandez
@@ -24,14 +24,5 @@ abstract: This article proposes a methodology to estimate a stress test for the 
 # - name: ""
 #   url: ""
 url_pdf: https://www.bcentral.cl/c/document_library/get_file?uuid=5c268999-b247-c67d-3c77-6a2fec5cf4d5&groupId=33528
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
 
 ---
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
