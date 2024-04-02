@@ -5,7 +5,7 @@ authors:
 - Cristian Espinosa
 - Jorge Fornero
 date: "2014-11-03T00:00:00Z"
-doi: ""
+doi: "https://www.rae-ear.org/index.php/rae/article/view/413"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
