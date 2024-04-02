@@ -32,9 +32,9 @@ social:
   - icon: envelope
     icon_pack: fas
     link: mailto:cristian.espinosa@ucl.ac.uk
-  - icon: linkedin
-    icon_pack: fab
-    link: http://linkedin.com/in/cristian-espinosa-201a5158
+  #- icon: linkedin
+  #  icon_pack: fab
+  #  link: http://linkedin.com/in/cristian-espinosa-201a5158
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cespinosad
