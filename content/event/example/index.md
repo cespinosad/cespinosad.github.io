@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: From protective to retaliatory tariffs: Identifying trade elasticities
 
 event: Hugo Blox Builder Conference
 event_url: https://example.org
@@ -13,7 +13,7 @@ address:
   country: United States
 
 summary: An example talk using Hugo Blox Builder's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+abstract: This paper analyzes the short-run effects of tariffs on Canadian trade volumes and prices. I use shifts in government trade policies, from protective to retaliatory tariffs, to identify trade elasticities. This serves for the construction of a novel instrument to estimate these elasticities at the variety level. I use 2018 Canadian retaliatory tariffs on industries distinct from those protected by the US, as an identification strategy in the IV context. The estimation for the elasticity of demand for imports is -5.2, which is twice as large as those typically reported in the literature. Given there is selection in the tariff policy design, this is a local treatment effect towards the upper tail of the elasticity distribution. On the other hand, retaliatory tariffs on industries protected by the US, are employed to obtain an estimate for the lower end of the distribution. Together, these set bounds on the average elasticity, which lies between -1.9 and -5.2.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -21,18 +21,12 @@ date: '2030-06-01T13:00:00Z'
 date_end: '2030-06-01T15:00:00Z'
 all_day: false
 
-# Schedule page publish date (NOT talk date).
-publishDate: '2017-01-01T00:00:00Z'
-
-authors: []
+authors: Cristian Espinosa
 tags: []
 
 # Is this a featured talk? (true/false)
 featured: false
 
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
 
 links:
   - icon: twitter
@@ -60,9 +54,6 @@ projects:
   - example
 ---
 
-{{% callout note %}}
-Click on the **Slides** button above to view the built-in slides feature.
-{{% /callout %}}
 
 Slides can be added in a few ways:
 
