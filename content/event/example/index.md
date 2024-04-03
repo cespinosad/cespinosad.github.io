@@ -2,7 +2,7 @@
 title: "From protective to retaliatory tariffs: Identifying trade elasticities"
 authors:
 - Cristian Espinosa
-date: "2024-04-01"
+date: ""
 doi: ""
 
 
