@@ -3,7 +3,7 @@ title: "The macroeconomic effect of modern protectionism"
 authors:
 - Cristian Espinosa
 
-date: "2021-12-31T00:00:00Z"
+date: "2022-12-31T00:00:00Z"
 doi: ""
 
 
