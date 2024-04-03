@@ -18,5 +18,5 @@ jobs:
       - uses: HugoBlox/gh-action-updater@v1
         with:
           feed-url: https://hugoblox.com/rss.xml
-          readme-section: publications
+          readme-section: news
           branch: main
