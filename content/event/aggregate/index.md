@@ -16,13 +16,12 @@ publication_types: ["article-journal"]
 publication: "Journal Economia Chilena (The Chilean Economy)"
 publication_short: ""
 
-abstract: This paper estimates the dynamic effects of import tariffs in Canada. The identification of an exogenous shock requires tackling with the problem of simultaneity, that otherwise, if not taken into account, would induce attenuation bias in the estimations. To deal with this, we use a database of temporary trade barriers to construct a measure of retaliatory tariffs. Using these, as an instrument for import tariff shocks in a Proxy-SVAR, we are able to identify the effect of exogenous shock. The results on GDP indicate that import tariffs are highly contractionary and that most of the effect is experienced in the short run. These remain robust to a series of alternative specifications and are larger than those obtained using internal instrument.
+abstract: This paper estimates the dynamic effects of import tariffs in Canada. The identification of an exogenous shock requires tackling with the problem of simultaneity, that otherwise, if not taken into account, would induce attenuation bias in the estimations. To deal with this, we use a database of temporary trade barriers to construct a measure of retaliatory tariffs. Using these, as an instrument for import tariff shocks in a Proxy-SVAR, we are able to identify the effect of exogenous shock. The results on GDP indicate that import tariffs are highly contractionary and that most of the effect is experienced in the short run. These remain robust to a series of alternative specifications and are larger than those obtained in the standard literature.
 
 
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://www.bcentral.cl/documents/33528/133333/bcch_archivo_101969_es.pdf#page=70
 
 
 ---
