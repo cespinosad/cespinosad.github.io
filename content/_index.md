@@ -51,7 +51,7 @@ sections:
           - wip
     design:
       columns: '2'
-      view: list
+      view: citation
   - block: collection
     id: featured
     content:
