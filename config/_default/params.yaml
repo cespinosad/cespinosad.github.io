@@ -33,9 +33,10 @@ marketing:
 
 header:
   navbar:
-    enable: false
+    enable: true
     align: l
     show_logo: true
+    filename: "icon.png"
     show_language: false
     show_day_night: true
     show_search: false
