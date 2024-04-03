@@ -3,7 +3,7 @@ title: "The effect of carbon taxes on the exchange rate volatility in commoditie
 authors:
 - Cristian Espinosa
 
-date: "2020-09T00:00:00Z"
+date: "2020-09-30T00:00:00Z"
 doi: ""
 
 
