@@ -48,7 +48,7 @@ sections:
       title: Work in progress
       filters:
         folders:
-          - publication2
+          - wip
     design:
       columns: '2'
       view: list
