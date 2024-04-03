@@ -48,7 +48,7 @@ sections:
       title: Work in progress
       filters:
         folders:
-          - event
+          - publication2
     design:
       columns: '2'
       view: list
