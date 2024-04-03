@@ -21,7 +21,7 @@ abstract: We analyze a dynamic stochastic general equilibrium model which includ
 
 # links:
 # - name: ""
-#   url: https://www.rae-ear.org/index.php/rae/article/view/413
+url: https://www.rae-ear.org/index.php/rae/article/view/413
 url_pdf: https://www.rae-ear.org/index.php/rae/article/view/413/558
 
 # Featured image
