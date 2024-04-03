@@ -22,5 +22,4 @@ abstract: "This paper analyzes the short-run effects of tariffs on Canadian trad
 # - name: ""
 #   url: ""
 
-
 ---
