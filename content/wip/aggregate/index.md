@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 publication: ""
 publication_short: ""
 
-abstract: This paper estimates the dynamic effects of import tariffs on Canadian macroeconomic aggregates. The identification of an exogenous shock requires tackling with the problem of simultaneity, that otherwise, if not taken into account, induces attenuation bias in the estimations. To deal with this, we use a database of temporary trade barriers to construct a measure of retaliatory tariffs. Using these, as an instrument for import tariff shocks in a Proxy-SVAR, we are able to identify the effect of exogenous shock. The results on GDP indicate that import tariffs are highly contractionary and that most of the effect is experienced in the short run. These remain robust to a series of alternative specifications and are larger than those obtained in the standard literature.
+abstract: This paper estimates the dynamic effects of import tariffs on Canadian macroeconomic aggregates. The identification of an exogenous shock requires tackling with the problem of simultaneity, that otherwise, if not taken into account, induces attenuation bias in the estimations. To deal with this, we use a database of temporary trade barriers to construct a measure of retaliatory tariffs. Using these, as an instrument for import tariff shocks in a Proxy-SVAR, we are able to identify the effect of exogenous shock. The results on GDP indicate that import tariffs are highly contractionary and that most of the effect is experienced during the first quarters after the shock. These remain robust to a series of alternative specifications and are larger than those obtained in the standard literature.
 
 
 # links:
@@ -28,7 +28,7 @@ abstract: This paper estimates the dynamic effects of import tariffs on Canadian
 ---
 ### Abstract:
 
-This paper estimates the dynamic effects of import tariffs on Canadian macroeconomic aggregates. The identification of an exogenous shock requires tackling with the problem of simultaneity, that otherwise, if not taken into account, induces attenuation bias in the estimations. To deal with this, we use a database of temporary trade barriers to construct a measure of retaliatory tariffs. Using these, as an instrument for import tariff shocks in a Proxy-SVAR, we are able to identify the effect of exogenous shock. The results on GDP indicate that import tariffs are highly contractionary and that most of the effect is experienced in the short run. These remain robust to a series of alternative specifications and are larger than those obtained in the standard literature.
+This paper estimates the dynamic effects of import tariffs on Canadian macroeconomic aggregates. The identification of an exogenous shock requires tackling with the problem of simultaneity, that otherwise, if not taken into account, induces attenuation bias in the estimations. To deal with this, we use a database of temporary trade barriers to construct a measure of retaliatory tariffs. Using these, as an instrument for import tariff shocks in a Proxy-SVAR, we are able to identify the effect of exogenous shock. The results on GDP indicate that import tariffs are highly contractionary and that most of the effect is experienced during the first quarters after the shock. These remain robust to a series of alternative specifications and are larger than those obtained in the standard literature.
 
 &NewLine;
 &NewLine;
