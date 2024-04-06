@@ -83,7 +83,9 @@ sections:
           date_start: '2019-01-01'
           date_end: ''
           description: |2-
-              MSc Times Series Econometrics, with Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 20/21/22/23/24)
+              ECON0058: MSc Times Series Econometrics, with Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 20/21/22/23/24)
+              SDDD
+              SS
 
               * Analysing
               * Modelling
