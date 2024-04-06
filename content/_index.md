@@ -74,8 +74,8 @@ sections:
           company_url: ''
           company_logo: ""
           location: ""
-          year_start: 2019
-          year_end: ''
+          date_start: '2019-01-01'
+          date_end: ''
           description: |2-
               ECON0058: MSc Times Series Econometrics, Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 2020/2021/2022/2023/2024) \
               \
