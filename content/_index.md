@@ -88,8 +88,8 @@ sections:
           company_url: ''
           company_logo: ""
           location: ""
-          date_start: '2010-01-01'
-          date_end: '2013-12-31'
+          date_start: '2010-00-00'
+          date_end: '2013-00-00'
           description: |2-
               MSc Econometric I, Prof. Valentina Paredes (2013) \
               \
