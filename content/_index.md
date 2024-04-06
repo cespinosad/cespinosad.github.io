@@ -83,16 +83,12 @@ sections:
           date_start: '2019-01-01'
           date_end: ''
           description: |2-
-              ECON0058: MSc Times Series Econometrics, Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 20/21/22/23/24) \
+              ECON0058: MSc Times Series Econometrics, Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 2020/2021/2022/2023/2024) \
               \
-              ECON0022: BSc  Econometrics for Macroeconomics and Finance, Prof. Dennis Kristensen (Fall 21/22/23)  \
+              ECON0022: BSc  Econometrics for Macroeconomics and Finance, Prof. Dennis Kristensen (Fall 2021/2022/2023)  \
                \
-              s
+              ECON0038: The Economics of Money and Banking, Prof. Silvia Dalbianco (Spring 2019)
 
-
-              * Analysing
-              * Modelling
-              * Deploying
         - title: Univeristy of Chile
           company: ""
           company_url: ''
@@ -100,7 +96,12 @@ sections:
           location: ""
           date_start: '2010-01-01'
           date_end: '2013-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          description: |2-
+              MSc Econometric I, Prof. Valentina Paredes (2013)
+              Sc Ecometrics I, Prof Andres Sagner (2010/2011/2012)
+ \
+
+    
     design:
       columns: '2'
 ---
