@@ -83,20 +83,20 @@ sections:
           date_start: '2019-01-01'
           date_end: ''
           description: |2-
-              ECON0058: MSc Times Series Econometrics, with Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 20/21/22/23/24)
+              ECON0058: MSc Times Series Econometrics, with Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 20/21/22/23/24) //
               SDDD
               SS
 
               * Analysing
               * Modelling
               * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
+        - title: Univeristy of Chile
+          company: ""
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
+          company_logo: ""
+          location: ""
+          date_start: '2010-01-01'
+          date_end: '2013-12-31'
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
