@@ -74,6 +74,7 @@ sections:
           company_url: ''
           company_logo: ""
           location: ""
+          date_format: 2006
           date_start: '2019-01-01'
           date_end: ''
           description: |2-
