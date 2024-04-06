@@ -97,11 +97,8 @@ sections:
           date_start: '2010-01-01'
           date_end: '2013-12-31'
           description: |2-
-              MSc Econometric I, Prof. Valentina Paredes (2013)
-              Sc Ecometrics I, Prof Andres Sagner (2010/2011/2012)
- \
-
-    
+              MSc Econometric I, Prof. Valentina Paredes (2013) \
+              Sc Ecometrics I, Prof Andres Sagner (2010/2011/2012) 
     design:
       columns: '2'
 ---
