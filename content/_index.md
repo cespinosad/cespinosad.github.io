@@ -62,8 +62,7 @@ sections:
         exclude_featured: true
     design:
       columns: '2'
-      view: card
-  - block: collection
+#  - block: collection
     id: teaching
     content:
       title: Teaching
