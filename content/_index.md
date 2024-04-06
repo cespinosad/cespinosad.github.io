@@ -79,7 +79,7 @@ sections:
           description: |2-
               ECON0058: MSc Times Series Econometrics, Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 2020/2021/2022/2023/2024) \
               \
-              ECON0022: BSc  Econometrics for Macroeconomics and Finance, Prof. Dennis Kristensen (Fall 2021/2022/2023)  \
+              ECON0022: BSc  Econometrics for Macroeconomics and Finance, Prof. Dennis Kristensen \ (Fall 2021/2022/2023)  \
               \
               ECON0038: The Economics of Money and Banking, Prof. Silvia Dalbianco (Spring 2019)
 
