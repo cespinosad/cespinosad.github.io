@@ -67,14 +67,14 @@ sections:
     content:
       title: Teaching
       # Date format for experience
-      date_format: Jan 2006
+      date_format: 2006
       items:
         - title: University College London (UCL)
           company: ""
           company_url: ''
           company_logo: ""
           location: ""
-          date_format: 2006
+          date_format: "2006"
           date_start: '2019-01-01'
           date_end: ''
           description: |2-
