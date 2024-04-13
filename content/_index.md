@@ -93,7 +93,6 @@ sections:
           date_end: '2013-12-31'
           description: |2-
               MSc Econometric I, Prof. Valentina Paredes (2013) \
-              \
               BSc Ecometrics I, Prof Andres Sagner (2010/2011/2012)
 
         - title: Diego Portales University
@@ -105,7 +104,6 @@ sections:
           date_end: '2012-12-31'
           description: |2-
               MSc Econometric Theory, Prof. Rodrigo Montero  (2011, 2012) \
-              \
               Bsc Macroeconomics II, Prof. Ricardo Mayer (2012)
 
         - title: Institute of Banking Studies Guillermo Subercaseaux
