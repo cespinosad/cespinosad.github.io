@@ -64,6 +64,7 @@ sections:
       columns: '2'
       view: card
   - block: experience
+    id: teaching
     content:
       title: Teaching
       # Date format for experience
