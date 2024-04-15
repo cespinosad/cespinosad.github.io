@@ -70,16 +70,13 @@ sections:
       title: 'Teaching'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: 2006
+      date_format: Jan 2006
       # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
           date_start: '2019-01-01'
-          date_end: '2019-09-01'
+          date_end: '2024-09-01'
           organization: Teaching Assistant
           organization_url: ''
           title: University College London (UCL)
