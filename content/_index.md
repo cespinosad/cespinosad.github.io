@@ -140,7 +140,10 @@ sections:
           title: University Collegue London (UCL)
           url: ''
           description: |2-
-              MSc Econometric Theory, Prof. Rodrigo Montero  (2011, 2012)
+              MSc Econometric Theory \
+              Prof. Rodrigo Montero \
+              (2011, 2012) \
+              \
               Bsc Macroeconomics II, Prof. Ricardo Mayer (2012)
     design:
       columns: '2'
