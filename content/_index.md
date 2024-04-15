@@ -79,7 +79,6 @@ sections:
       items:
         - certificate_url: ''
           date_start: '2019-01-01'
-          date_end: 'Present'
           organization: Teaching Assistant
           organization_url: ''
           title: University College London (UCL)
