@@ -140,13 +140,17 @@ sections:
           title: University Collegue London (UCL)
           url: ''
           description: |2-
-              ECON0058: MSc Times Series Econometrics  \
+              MSc Times Series Econometrics  \
               Raffaella Giacomini, Saleem Bahaj and Andrea Carriero \
-              Spring 2020,2021,2022,2023,2024 \
+              Spring 2020, 2021, 2022, 2023, 2024 \
               \
-              ECON0022: BSc  Econometrics for Macroeconomics and Finance \
+              BSc Econometrics for Macroeconomics and Finance \
               Dennis Kristensen \
-              Fall 2021,2022,2023
+              Fall 2021, 2022, 2023 \
+              \
+              ECON0038: The Economics of Money and Banking \
+              Silvia Dalbianco \
+              Spring 2019    
         - certificate_url: ''
           date_start: '2019-01-01'
           date_end: ''
