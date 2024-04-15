@@ -139,7 +139,8 @@ sections:
           organization_url: ''
           title: University Collegue London (UCL)
           url: ''
-          description: ''
+          description: |2-
+          ECON0058: MSc Times Series Econometrics, Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 2020/2021/2022/2023/2024)
     design:
       columns: '2'
 ---
