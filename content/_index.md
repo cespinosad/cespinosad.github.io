@@ -94,8 +94,8 @@ sections:
               Prof. Silvia Dalbianco \
               Spring 2019
         - certificate_url: ''
-          date_start: '2010-01-01'
-          date_end: '2013-12-31'
+          date_start: '2010-00-00'
+          date_end: '2013-00-00'
           organization: Teaching Assistant
           organization_url: ''
           title: University of Chile
