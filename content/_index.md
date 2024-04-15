@@ -122,7 +122,7 @@ sections:
   - block: accomplishments
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: Teaching
+      title: 'Teaching'
       subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
       date_format: 2006
@@ -137,9 +137,7 @@ sections:
           date_start: '2021-01-25'
           title: Univerity College London (UCL)
           url: ''
-          description: 
-              MSc Econometric I, Prof. Valentina Paredes (2013) \
-              BSc Ecometrics I, Prof Andres Sagner (2010/2011/2012)
+          description: ''
     design:
       columns: '2'
 ---
