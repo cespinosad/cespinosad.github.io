@@ -141,15 +141,15 @@ sections:
           url: ''
           description: |2-
               MSc Times Series Econometrics  \
-              Raffaella Giacomini, Saleem Bahaj and Andrea Carriero \
+              Profs. Raffaella Giacomini and Saleem Bahaj \
               Spring 2020, 2021, 2022, 2023, 2024 \
               \
               BSc Econometrics for Macroeconomics and Finance \
-              Dennis Kristensen \
+              Prof. Dennis Kristensen \
               Fall 2021, 2022, 2023 \
               \
-              ECON0038: The Economics of Money and Banking \
-              Silvia Dalbianco \
+              BSc The Economics of Money and Banking \
+              Prof. Silvia Dalbianco \
               Spring 2019    
         - certificate_url: ''
           date_start: '2019-01-01'
