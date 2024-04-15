@@ -119,25 +119,4 @@ sections:
 
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Teaching'
-      subtitle:
-      # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: 2006
-      # Accomplishments.
-      #   Add/remove as many `item` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - certificate_url: https://www.coursera.org
-          date_end: ''
-          date_start: '2021-01-25'
-          title: Univerity College London (UCL)
-          url: ''
-          description: ''
-    design:
-      columns: '2'
 ---
