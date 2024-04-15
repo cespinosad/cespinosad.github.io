@@ -137,7 +137,7 @@ sections:
           date_end: ''
           organization: Teaching Assistant
           organization_url: ''
-          title: University Collegue London (UCL)
+          title: University College London (UCL)
           url: ''
           description: |2-
               MSc Times Series Econometrics  \
@@ -150,22 +150,49 @@ sections:
               \
               BSc The Economics of Money and Banking \
               Prof. Silvia Dalbianco \
-              Spring 2019    
+              Spring 2019
         - certificate_url: ''
-          date_start: '2019-01-01'
-          date_end: ''
+          date_start: '2010-01-01'
+          date_end: '2013-12-31'
           organization: Teaching Assistant
           organization_url: ''
-          title: University Collegue London (UCL)
+          title: University of Chile
+          url: ''
+          description: |2-
+              MSc Econometric I \
+              Prof. Valentina Paredes \
+              Fall 2013 \
+              \
+              BSc Ecometrics I \
+              Prof Andres Sagner \
+              Fall 2010, 2011, 2012
+        - certificate_url: ''
+          date_start: '2011-01-01'
+          date_end: '2012-12-31'
+          organization: Teaching Assistant
+          organization_url: ''
+          title: Diego Portales University
           url: ''
           description: |2-
               MSc Econometric Theory \
               Prof. Rodrigo Montero \
-              (2011, 2012) \
+              Spring 2011, 2012 \
               \
               Bsc Macroeconomics II  \
-              Prof. Ricardo Mayer  \
-              (2012)
+              Prof. Ricardo Mayer and Rodrigo Montero  \
+              Fall 2012
+        - certificate_url: ''
+          date_start: '2010-01-01'
+          date_end: '2010-12-31'
+          organization: Teaching Assistant
+          organization_url: ''
+          title: Institute of Banking Studies Guillermo Subercaseaux
+          url: ''
+          description: |2-
+              BSc Financial Econometrics \
+              Prof. Andres Sagner \
+              Spring 2010
+    
     design:
       columns: '2'
 ---
