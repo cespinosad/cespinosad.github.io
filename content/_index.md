@@ -136,7 +136,7 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          organization: Coursera
+          organization: Teaching Assistant
           organization_url: ''
           title: University Collegue London (UCL)
           url: ''
