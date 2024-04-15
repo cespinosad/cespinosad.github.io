@@ -63,63 +63,8 @@ sections:
     design:
       columns: '2'
       view: card
-  - block: experience
-    id: teaching
-    content:
-      title: Teaching
-      # Date format for experience
-      date_format: 2006
-      items:
-        - title: University College London (UCL)
-          company: ""
-          company_url: ''
-          company_logo: ""
-          location: ""
-          date_format: "2006"
-          date_start: '2019-01-01'
-          date_end: ''
-          description: |2-
-              ECON0058: MSc Times Series Econometrics, Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero (Spring 2020/2021/2022/2023/2024) \
-              \
-              ECON0022: BSc  Econometrics for Macroeconomics and Finance, Prof. Dennis Kristensen (Fall 2021/2022/2023)  \
-              \
-              ECON0038: The Economics of Money and Banking, Prof. Silvia Dalbianco (Spring 2019)
-
-        - title: Univeristy of Chile
-          company: ""
-          company_url: ''
-          company_logo: ""
-          location: ""
-          date_start: '2010-01-01'
-          date_end: '2013-12-31'
-          description: |2-
-              MSc Econometric I, Prof. Valentina Paredes (2013) \
-              BSc Ecometrics I, Prof Andres Sagner (2010/2011/2012)
-
-        - title: Diego Portales University
-          company: ""
-          company_url: ''
-          company_logo: ""
-          location: ""
-          date_start: '2011-01-01'
-          date_end: '2012-12-31'
-          description: |2-
-              MSc Econometric Theory, Prof. Rodrigo Montero  (2011, 2012) \
-              Bsc Macroeconomics II, Prof. Ricardo Mayer (2012)
-
-        - title: Institute of Banking Studies Guillermo Subercaseaux
-          company: ""
-          company_url: ''
-          company_logo: ""
-          location: ""
-          date_start: '2011-01-01'
-          date_end: '2012-12-31'
-          description: |2-
-              BSc Financial Econometrics, Prof. Andres Sagner (2010) 
-
-    design:
-      columns: '2'
   - block: accomplishments
+    id: teaching
     content:
       # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
       title: 'Teaching'
@@ -186,7 +131,7 @@ sections:
           date_end: '2010-12-31'
           organization: Teaching Assistant
           organization_url: ''
-          title: Institute of Banking Studies Guillermo Subercaseaux
+          title: Institute of Banking Studies
           url: ''
           description: |2-
               BSc Financial Econometrics \
