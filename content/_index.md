@@ -75,7 +75,7 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       items:
         - certificate_url: ''
-          date_start: '2019-01-01'
+          date_start: '2019-09-01'
           date_end: '2024-09-01'
           organization: Teaching Assistant
           organization_url: ''
