@@ -140,11 +140,24 @@ sections:
           title: University Collegue London (UCL)
           url: ''
           description: |2-
+              ECON0058: MSc Times Series Econometrics  \
+              Profs. Raffaella Giacomini, Saleem Bahaj and Andrea Carriero \
+              Spring 2020/2021/2022/2023/2024
+        - certificate_url: ''
+          date_start: '2019-01-01'
+          date_end: ''
+          organization: Teaching Assistant
+          organization_url: ''
+          title: University Collegue London (UCL)
+          url: ''
+          description: |2-
               MSc Econometric Theory \
               Prof. Rodrigo Montero \
               (2011, 2012) \
               \
-              Bsc Macroeconomics II, Prof. Ricardo Mayer (2012)
+              Bsc Macroeconomics II  \
+              Prof. Ricardo Mayer  \
+              (2012)
     design:
       columns: '2'
 ---
