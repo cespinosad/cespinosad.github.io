@@ -133,13 +133,13 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - certificate_url: ''
+          date_start: '2019-01-01'
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
           organization: Teaching Assistant
           organization_url: ''
           title: University Collegue London (UCL)
           url: ''
+          description: ''
     design:
       columns: '2'
 ---
