@@ -136,7 +136,6 @@ sections:
           date_end: ''
           date_start: '2021-01-25'
           description: ''
-          icon: ''
           organization: Coursera
           organization_url: ''
           title: University Collegue London (UCL)
