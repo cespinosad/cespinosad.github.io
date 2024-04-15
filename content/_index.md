@@ -101,7 +101,7 @@ sections:
           title: University of Chile
           url: ''
           description: |2-
-              MSc Econometric I \
+              MSc Econometrics I \
               Prof. Valentina Paredes \
               Fall 2013 \
               \
