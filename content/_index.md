@@ -121,7 +121,7 @@ sections:
               Spring 2011, 2012 \
               \
               Bsc Macroeconomics II  \
-              Prof. Ricardo Mayer and Rodrigo Montero  \
+              Profs. Ricardo Mayer and Rodrigo Montero  \
               Fall 2012
         - certificate_url: ''
           date_start: '2010-01-01'
