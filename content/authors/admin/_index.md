@@ -38,9 +38,9 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/cespinosad
-  - icon: instagram
-    icon_pack: fab
-    link: https://www.instagram.com/cr.espinosad/
+  #- icon: instagram
+  #  icon_pack: fab
+  #  link: https://www.instagram.com/cr.espinosad/
 
 ---
 
