@@ -52,6 +52,7 @@ sections:
     design:
       columns: '2'
       view: card
+  - block: collection
     id: working
     content:
       title: Work in progress
