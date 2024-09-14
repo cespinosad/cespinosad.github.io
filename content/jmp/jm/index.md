@@ -32,4 +32,3 @@ This paper analyzes the short-run effects of tariffs on Canadian trade volumes a
 &NewLine;
 &NewLine;
 &NewLine;
-
