@@ -44,22 +44,22 @@ sections:
       username: admin
     
   - block: collection
-    id: jmp
-    content:
-      title: Job Market Paper
-      filters:
-        folders:
-          - jmp
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     id: working
     content:
       title: Work in progress
       filters:
         folders:
           - wip
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    id: jmp
+    content:
+      title: Job Market paper
+      filters:
+        folders:
+          - jmp
     design:
       columns: '2'
       view: card
