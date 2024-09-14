@@ -2,7 +2,7 @@
 title: "From Protection to Retaliation: The trade war effect"
 authors:
 - Cristian Espinosa
-date: "2024-10-01"
+date: "2024-09-01"
 # show_date: false
 doi: ""
 
