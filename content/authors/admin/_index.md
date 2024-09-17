@@ -51,6 +51,6 @@ My Research areas are International Economics (Trade and Macroeconomics) and Emp
 
 Prior to joining UCL, I served as an Economic and Financial Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home).
 
-Access my Job Market Paper \
+Access my JMP \
 Download my [CV](uploads/resume.pdf)                                                                                                                                                                  
 Email: [cristian.espinosa@ucl.ac.uk](mailto:cristian.espinosa@ucl.ac.uk)
