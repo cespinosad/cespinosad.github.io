@@ -44,7 +44,7 @@ social:
 
 ---
 
-I am a PhD candidate in Economics at UCL and will be on the job market this year.\ 
+I am a PhD candidate in Economics at UCL and will be on the job market this year. \ 
 My supervisors are [Morten O. Ravn](https://sites.google.com/view/mortenoravn/home) and [Kalina Manova](https://www.kalinamanova.com).
 
 My Research areas are International Economics (Trade and Macroeconomics) and Empirical Macroeconomics.
