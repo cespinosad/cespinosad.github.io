@@ -35,7 +35,7 @@ social:
   #- icon: linkedin
   #  icon_pack: fab
   #  link: http://linkedin.com/in/cristian-espinosa-201a5158
-  - icon: twitter
+  - icon: x-twitter
     icon_pack: fab
     link: https://x.com/cespinosad
   #- icon: instagram
