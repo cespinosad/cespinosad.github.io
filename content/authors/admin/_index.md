@@ -49,7 +49,7 @@ My supervisors are [Morten O. Ravn](https://sites.google.com/view/mortenoravn/ho
 
 My Research areas are International Economics (Trade and Macroeconomics) and Empirical Macroeconomics.
 
-Prior to joining UCL, I served as an Economic and Financial Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home).
+Prior to joining UCL, I served as an Economic Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home).
 
 Access my JMP \
 Download my [CV](uploads/resume.pdf)                                                                                                                                                                  
