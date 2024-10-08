@@ -1,5 +1,5 @@
 ---
-title: "The effect of carbon taxes on the exchange rate volatility in commodities exporting countries"
+title: "The effect of carbon taxes on the exchange rate volatility in commodities exporting countries **(R&R)**"
 authors:
 - Cristian Espinosa
 
