@@ -49,7 +49,7 @@ I am a PhD candidate in Economics at UCL and will be on the job market this year
 
 My Research areas are International Economics (Trade and Macroeconomics) and Empirical Macroeconomics.
 
-Prior to joining UCL, I served as an Economic Analyst at the [Central Bank of Chile](https://www.bcentral.cl/en/home).
+I am currently on the 2024-2025 academic job market.
 
 Access my JMP \
 Download my [CV](uploads/resume.pdf)                                                                                                                                                                  
