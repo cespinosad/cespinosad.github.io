@@ -25,7 +25,6 @@ abstract: "This paper explores the welfare costs of trade impediments imposed du
 url_pdf: uploads/JMP.pdf
 
 ---
-url_pdf: uploads/JMP.pdf
 
 ### Abstract:
 
