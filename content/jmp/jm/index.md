@@ -22,7 +22,7 @@ abstract: "This paper explores the welfare costs of trade impediments imposed du
 # links: uploads/resume.pdf
 # - name: ""
 #   url: ""
-url_pdf: https://www.rae-ear.org/index.php/rae/article/view/413/558
+url_pdf: uploads/JMP.pdf
 
 ---
 ### Abstract:
