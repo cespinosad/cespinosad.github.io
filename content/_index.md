@@ -56,7 +56,7 @@ sections:
   - block: collection
     id: working
     content:
-      title: Work in progress
+      title: Working papers
       filters:
         folders:
           - wip
