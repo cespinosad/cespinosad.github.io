@@ -10,7 +10,7 @@ main:
   - name: Job Market Paper
     url: '#jmp'
     weight: 30
-  - name: Work in progress
+  - name: Working papers
     url: '#working'
     weight: 30
   - name: Publications
