@@ -28,7 +28,7 @@ organizations:
 social:
   - icon: cv
     icon_pack: ai
-    link: uploads/resume.pdf
+    link: uploads/CV_Cristian_Espinosa.pdf
   - icon: envelope
     icon_pack: fas
     link: mailto:cristian.espinosa@ucl.ac.uk
