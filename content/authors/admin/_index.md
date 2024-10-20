@@ -48,7 +48,7 @@ I am a PhD candidate in Economics at UCL. My supervisors are [Morten O. Ravn](ht
 
 My Research areas are International Economics (Trade and Macroeconomics) and Empirical Macroeconomics.
 
-I am currently on the 2024/2025 academic job market.
+I am currently on the 2024/25 academic job market.
 
 Access my [JMP](uploads/JMP.pdf) \
 Download my [CV](uploads/resume.pdf)                                                                                                                                                                  
