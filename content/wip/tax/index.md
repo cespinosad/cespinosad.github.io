@@ -2,6 +2,7 @@
 title: "The Carbon Tax as an Automatic Stabilizer in a Commodity-Producing Small Open Economy (R&R)"
 authors:
 - Cristian Espinosa
+- Pablo Gutierrez
 
 date: "2020-09-30T00:00:00Z"
 # show_date: false
