@@ -1,5 +1,5 @@
 ---
-title: "The macroeconomic effect of modern protectionism"
+title: "The Macroeconomic Effect of Modern Protectionism"
 authors:
 - Cristian Espinosa
 
