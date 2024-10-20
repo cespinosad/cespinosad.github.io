@@ -1,5 +1,5 @@
 ---
-title: "Firm’s stress testing: An application to the Chilean non-financial corporate sector (in Spanish)"
+title: "Firm’s Stress Testing: An Application to the Chilean Non-Financial Corporate Sector (in Spanish)"
 authors:
 - Cristian Espinosa
 - Jorge Fernandez
@@ -17,7 +17,7 @@ publication_types: ["article-journal"]
 publication: "Journal Economia Chilena (The Chilean Economy)"
 publication_short: ""
 
-abstract: This article puts forward a methodology to estimate an stress testing for the non-financial corporate sector in Chile. This is based on a detailed characterization of the financial debt of firms, using statistical appendices compiled by the Superintendence of Securities and Insurance (SVS), which were validated using administrative records from the Superintendence of Banks and Financial Institutions (SBIF) and the Central Bank of Chile (BCCh).
+abstract: This article proposes a methodology to estimate stress testing for the non-financial corporate sector in Chile. The approach is based on a detailed characterization of firms' financial debt, using statistical appendices compiled by the Superintendence of Securities and Insurance (SVS), validated with administrative records from the Superintendence of Banks and Financial Institutions (SBIF) and the Central Bank of Chile (BCCh).
 
 
 # links:
