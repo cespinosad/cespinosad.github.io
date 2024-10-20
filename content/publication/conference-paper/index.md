@@ -1,5 +1,5 @@
 ---
-title: "Historical comparison of the Chilean corporate sector's results (in Spanish)"
+title: "Historical Comparison of Results in the Chilean Corporate Sector (in Spanish)"
 authors:
 - Cristian Espinosa
 - Jorge Fernandez
