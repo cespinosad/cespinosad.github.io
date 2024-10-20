@@ -22,7 +22,7 @@ abstract: "This paper estimates the dynamic effects of import tariffs on key mac
 # links:
 # - name: ""
 #   url: ""
-
+url_pdf: uploads/The_Macroeconomic_Effect_of_Modern_Protectionism.pdf
 
 ---
 ### Abstract:
