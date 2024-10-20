@@ -16,7 +16,7 @@ publication_types: ["article-journal"]
 publication: "Journal Economia Chilena (The Chilean Economy)"
 publication_short: ""
 
-abstract: This article presents an historical comparison of the results of companies reporting to the Superintendence of Securities and Insurance (SVS). This comparison covers periods during which the country was exposed to different economic cycles, spanning from 1994 to 2013. It analyzes in detail the Asian crisis and its subsequent recovery, the subprime crisis, and finally, the current situation.
+abstract: This article presents a historical comparison of the results of companies reporting to the Superintendence of Securities and Insurance (SVS). This comparison covers periods during which the country was exposed to different economic cycles, spanning from 1994 to 2013. It analyzes in detail the Asian crisis and its subsequent recovery, the subprime crisis, and finally, the current situation.
 
 
 # links:
