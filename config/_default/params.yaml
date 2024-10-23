@@ -61,6 +61,8 @@ locale:
 
 # Site features
 
+customCSS = ["css/custom.css"]
+
 features:
   syntax_highlighter:
     theme_light: github-light
