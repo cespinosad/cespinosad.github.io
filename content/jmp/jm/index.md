@@ -22,7 +22,7 @@ abstract: "This paper explores the welfare costs of trade impediments imposed du
 # links: uploads/resume.pdf
 # - name: ""
 #   url: ""
-url_pdf: uploads/Cristian_Espinosa_JMP.pdf
+url_pdf: uploads/JMP_Cristian_Espinosa.pdf
 
 ---
 
