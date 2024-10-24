@@ -25,6 +25,9 @@ abstract: "In this paper, we evaluate the role of carbon taxes as automatic stab
 #   url: ""
 
 ---
+**Revise and Resubmit at *Economic Analysis and Policy*
+&NewLine;
+&NewLine;
 
 ### Abstract:
 
