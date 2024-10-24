@@ -50,6 +50,6 @@ My Research areas are International Economics (Trade and Macroeconomics) and Emp
 
 I am currently on the 2024/25 academic job market.
 
-Access my [JMP](uploads/JMP.pdf) \
+Access my [JMP](uploads/JMP_Cristian_Espinosa.pdf) \
 Download my [CV](uploads/CV_Cristian_Espinosa.pdf)                                                                                                                                                                  
 Email: [cristian.espinosa@ucl.ac.uk](mailto:cristian.espinosa@ucl.ac.uk)
