@@ -46,7 +46,7 @@ social:
 
 I am a PhD candidate in Economics at UCL. My supervisors are [Morten O. Ravn](https://sites.google.com/view/mortenoravn/home) and [Franck Portier](https://fportier.wordpress.com).
 
-My Research areas are International Economics (Trade and Macroeconomics) and Empirical Macroeconomics.
+My Research areas are International Economics (Trade and Macroeconomics) and Applied Macroeconomics.
 
 I am currently on the 2024/25 academic job market.
 
