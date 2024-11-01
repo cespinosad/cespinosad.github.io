@@ -22,7 +22,7 @@ abstract: "In this paper, we evaluate the role of carbon taxes as automatic stab
 
 # links:
 # - name: ""
-url: uploads/Carbon_tax.pdf
+url_pdf: uploads/Carbon_tax.pdf
 
 ---
 ### Revise and Resubmit at *Economic Analysis and Policy*
