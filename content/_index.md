@@ -67,7 +67,7 @@ sections:
   - block: collection
     id: featured
     content:
-      title: Publications
+      title: Pre-Doc Publications
       filters:
         folders:
           - publication
