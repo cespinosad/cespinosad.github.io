@@ -13,7 +13,7 @@ main:
   - name: Working papers
     url: '#working'
     weight: 30
-  - name: Publications
+  - name: Pre-Doc Publications
     url: '#featured'
     weight: 50
   - name: Teaching
