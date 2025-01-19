@@ -1,11 +1,11 @@
 ---
-title: "Welfare Analysis of an Optimal Carbon Tax in Chile"
+title: "The carbon tax as an automatic stabilizer in a commodity-producing Small Open Economy"
 
 authors:
 - Cristian Espinosa
 - Pablo Gutierrez Cubillos
 - Bastian Castro Nofal
-date: "2025-01-03T00:00:00Z"
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Publication type.
