@@ -1,10 +1,11 @@
 ---
-title: "Welfare Analysis of an Optimal Carbon Tax in Chile"
+title: "The carbon tax as an automatic stabilizer in a commodity-producing Small Open Economy"
 
 authors:
 - Cristian Espinosa
-- Jorge Fornero
-date: "2014-11-03T00:00:00Z"
+- Pablo Gutierrez Cubillos
+- Bastián Castro Nofal
+date: "2025-01-01T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -21,9 +22,8 @@ abstract: "In this paper, we evaluate the role of carbon taxes as automatic stab
 
 # links:
 # - name: ""
-# url: https://www.rae-ear.org/index.php/rae/article/view/413
+url: https://www.rae-ear.org/index.php/rae/article/view/413
 url_pdf: https://www.rae-ear.org/index.php/rae/article/view/413/558
-
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 
