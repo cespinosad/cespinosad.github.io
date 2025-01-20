@@ -67,6 +67,17 @@ sections:
   - block: collection
     id: featured
     content:
+      title: Publications
+      filters:
+        folders:
+          - publication/journal-paper
+        exclude_featured: true
+    design:
+      columns: '2'
+      view: card
+  - block: collection
+    id: featured
+    content:
       title: Pre-Doc Publications
       filters:
         folders:
