@@ -70,7 +70,7 @@ sections:
       title: Publications
       filters:
         folders:
-          - papers/carbon
+          - papers
         exclude_featured: true
     design:
       columns: '2'
