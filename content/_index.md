@@ -65,7 +65,7 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: paperss
+    id: papers
     content:
       title: Publications
       filters:
