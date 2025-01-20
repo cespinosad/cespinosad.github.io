@@ -65,20 +65,9 @@ sections:
       columns: '2'
       view: card
   - block: collection
-    id: papers
-    content:
-      title: Papers
-      filters:
-        folders:
-          - papers
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: card
-  - block: collection
     id: featured
     content:
-      title: Pre-Doc Publications
+      title: Publications
       filters:
         folders:
           - publication
