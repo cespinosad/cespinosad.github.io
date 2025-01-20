@@ -1,5 +1,5 @@
 ---
-title: Pre-Doc Publications
+title: Publications
 cms_exclude: true
 
 # View.
