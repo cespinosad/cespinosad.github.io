@@ -13,6 +13,9 @@ main:
   - name: Working papers
     url: '#working'
     weight: 30
+  - name: Publications
+    url: '#papers'
+    weight: 30  
   - name: Pre-Doc Publications
     url: '#featured'
     weight: 50
