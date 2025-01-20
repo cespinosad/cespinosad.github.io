@@ -22,7 +22,7 @@ abstract: "In this paper, we evaluate the role of carbon taxes as automatic stab
 
 # links:
 # - name: ""
-url: https://www.sciencedirect.com/science/article/pii/S0313592624003734
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0313592624003734
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 
