@@ -1,11 +1,10 @@
 ---
-title: "The carbon tax as an automatic stabilizer in a commodity-producing Small Open Economy"
+title: "Welfare Analysis of an Optimal Carbon Tax in Chile"
 
 authors:
 - Cristian Espinosa
-- Pablo Gutierrez Cubillos
-- Bastián Castro Nofal
-date: "2024-12-03T00:00:00Z"
+- Jorge Fornero
+date: "2014-11-03T00:00:00Z"
 doi: ""
 
 # Publication type.
@@ -17,14 +16,16 @@ publication_types: ["article-journal"]
 publication: "Economic Analysis Review"
 publication_short: ""
 
-abstract: "In this paper, we evaluate the role of carbon taxes as automatic stabilizers in small open economies (SOEs) that specialize in the export of a single commodity, particularly those highly dependent on energy inputs for production. Specifically, we examine the carbon tax’s ability to reduce the volatility of the real exchange rate and energy prices. This analysis is conducted through the lens of a DSGE model that incorporates an externality affecting GDP, originating from the burning of fossil fuels for energy generation. We assume this externality drives climate change, and the government, aiming to internalize these damages, imposes a Pigouvian tax on the energy sector. Our model is calibrated for the Chilean economy, which is highly specialized in copper production. The results show that the tax: (i) reduces energy volatility by 14% and energy price volatility by 10%, and (ii) lowers the variance of the real exchange rate by 1.8%. These stabilizing effects are robust to different shock specifications and the choice of model used to represent household consumption."
+abstract: We analyze a dynamic stochastic general equilibrium model which includes a negative externality that arises from fossil fuels burning. The carbon released to the atmosphere by electricity producers is the main driver of climate change. We adapt the optimal tax derived by Golosov et al. (2011) to a small open economy to force polluters to internalize their damages. The results show that the tax benefits outweigh their costs; yet welfare gains seem to be marginal under plausible parameters. We calculate the optimal carbon tax for Chile and the tax effectiveness achieved, which is around 10 percent. The results remain robust to variations in the utility function, changes in parameters that determine the externality and alternative degrees of commitment to reduce emissions.
 
 
 # links:
 # - name: ""
 # url: https://www.rae-ear.org/index.php/rae/article/view/413
 url_pdf: https://www.rae-ear.org/index.php/rae/article/view/413/558
+
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 
 ---
+
