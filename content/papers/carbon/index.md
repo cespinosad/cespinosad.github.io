@@ -1,11 +1,12 @@
 ---
-title: "Welfare Analysis of an Optimal Carbon Tax in Chile"
-
+title: "The Macroeconomic Effect of Modern Protectionism"
 authors:
 - Cristian Espinosa
-- Jorge Fornero
-date: "2014-11-03T00:00:00Z"
+
+date: "2022-09-30T00:00:00Z"
+# show_date: false
 doi: ""
+
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -13,19 +14,21 @@ doi: ""
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Economic Analysis Review"
+publication: ""
 publication_short: ""
 
-abstract: We analyze a dynamic stochastic general equilibrium model which includes a negative externality that arises from fossil fuels burning. The carbon released to the atmosphere by electricity producers is the main driver of climate change. We adapt the optimal tax derived by Golosov et al. (2011) to a small open economy to force polluters to internalize their damages. The results show that the tax benefits outweigh their costs; yet welfare gains seem to be marginal under plausible parameters. We calculate the optimal carbon tax for Chile and the tax effectiveness achieved, which is around 10 percent. The results remain robust to variations in the utility function, changes in parameters that determine the externality and alternative degrees of commitment to reduce emissions.
-
+abstract: "This paper estimates the dynamic effects of import tariffs on key macroeconomic aggregates in a small open economy. Due to the countercyclical profile of tariffs, simultaneity between tariffs and GDP induces attenuation bias in the calculation of impulse response functions. To address this issue, we develop a novel instrument based on retaliatory tariffs, constructed from a database of temporary trade barriers. Retaliatory tariff rates are constrained by the World Trade Organization (WTO) to match those imposed by trade partners. The identifying assumption is that tariffs imposed by trade partners are orthogonal to the own economic activity shocks. Retaliation responds to a foreign partner's defection rather than to domestic economic conditions, allowing the identification of an exogenous import tariff shock using an Proxy-SVAR model. Our key findings are that an increase in tariffs: (i) is inflationary (for consumer prices); (ii) has a negative and quite persistent impact on GDP; and (iii) worsens the trade balance on impact. The results are robust across various alternative specifications and the estimated effects exceed those obtained using standard timing restriction models."
 
 # links:
 # - name: ""
-# url: https://www.rae-ear.org/index.php/rae/article/view/413
-url_pdf: https://www.rae-ear.org/index.php/rae/article/view/413/558
-
-# Featured image
-# To use, add an image named `featured.jpg/png` to your page's folder. 
+#   url: ""
+url_pdf: uploads/The_Macroeconomic_Effect_of_Modern_Protectionism.pdf
 
 ---
+### Abstract:
 
+This paper estimates the dynamic effects of import tariffs on key macroeconomic aggregates in a small open economy. Due to the countercyclical profile of tariffs, simultaneity between tariffs and GDP induces attenuation bias in the calculation of impulse response functions. To address this issue, we develop a novel instrument based on retaliatory tariffs, constructed from a database of temporary trade barriers. Retaliatory tariff rates are constrained by the World Trade Organization (WTO) to match those imposed by trade partners. The identifying assumption is that tariffs imposed by trade partners are orthogonal to the own economic activity shocks. Retaliation responds to a foreign partner's defection rather than to domestic economic conditions, allowing the identification of an exogenous import tariff shock using an Proxy-SVAR model. Our key findings are that an increase in tariffs: (i) is inflationary (for consumer prices); (ii) has a negative and quite persistent impact on GDP; and (iii) worsens the trade balance on impact. The results are robust across various alternative specifications and the estimated effects exceed those obtained using standard timing restriction models.
+
+&NewLine;
+&NewLine;
+&NewLine;
