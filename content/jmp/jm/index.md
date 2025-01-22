@@ -1,5 +1,5 @@
 ---
-title: "From Protection to Retaliation: The Welfare Cost of Trade Wars"
+title: "From Protection to Retaliation: The Welfare Cost of Tariffs"
 authors:
 - Cristian Espinosa
 date: "2024-09-01"
