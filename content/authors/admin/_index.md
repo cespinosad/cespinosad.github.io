@@ -48,7 +48,7 @@ I am a PhD candidate in Economics at UCL. My supervisors are [Morten O. Ravn](ht
 
 My Research areas are International Economics (Trade and Macroeconomics) and Empirical Macroeconomics.
 
-I am currently on the 2024/25 academic job market.
+In Fall 2025, I will be joining the [University of Houston](https://uh.edu/class/economics/) as an Assistant Professor.
 
 Access my [JMP](uploads/JMP_Cristian_Espinosa.pdf) \
 Download my [CV](uploads/CV_Cristian_Espinosa.pdf)                                                                                                                                                                  
