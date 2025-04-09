@@ -97,7 +97,7 @@ sections:
           description: |2-
               MSc Times Series Econometrics  \
               Profs. Raffaella Giacomini and Saleem Bahaj \
-              Spring 2020, 2021, 2022, 2023, 2024 \
+              Spring 2020, 2021, 2022, 2023, 2024, 2025 \
               \
               BSc Econometrics for Macroeconomics and Finance \
               Prof. Dennis Kristensen \
