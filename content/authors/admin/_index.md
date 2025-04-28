@@ -48,7 +48,7 @@ I am a PhD candidate in Economics at UCL. My supervisors are [Morten O. Ravn](ht
 
 My Research areas are International Economics and Empirical Macroeconomics.
 
-My JMP received the [Best Paper Award](uploads/Certificate.pdf) at the 23rd Annual GEP/CEPR Postgraduate Conference
+I received the [Best Paper Award](uploads/Certificate.pdf) at the Annual GEP/CEPR Postgraduate Conference
 
 In Fall 2025, I will be joining the [University of Houston](https://uh.edu/class/economics/) as an Assistant Professor.
 
