@@ -118,7 +118,7 @@ sections:
               Prof. Valentina Paredes \
               Fall 2013 \
               \
-              BSc Ecometrics I \
+              BSc Econometrics I \
               Prof Andres Sagner \
               Fall 2010, 2011, 2012
         - certificate_url: ''
