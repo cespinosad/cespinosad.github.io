@@ -19,7 +19,7 @@ role: Assistant Professor of Economics
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: University of Houston
-    url: [https://www.ucl.ac.uk/economics/ucl-department-economics](https://www.uh.edu/class/economics/people/current-faculty/espinosa/index.php)
+    url: https://www.uh.edu/class/economics/people/current-faculty/espinosa/index.php
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
