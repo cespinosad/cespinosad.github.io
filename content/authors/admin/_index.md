@@ -48,7 +48,7 @@ I am an Assistant Professor in the Department of Economics at the University of 
 
 My research areas are international economics and empirical macroeconomics. My current research focuses on trade policy and the welfare effect of tariffs. 
 
-I obtained my PhD from University College London (UCL). Before joining the University of Houston, I worked at the Central Bank of Chile.
+I obtained my PhD from University College London (UCL). Before joining the University of Houston, I worked as an analyst at the Central Bank of Chile.
 
 Download my [CV](uploads/CV_Cristian_Espinosa.pdf)                                                                                                                                                                  
 Email: [cespinosad@uh.edu](mailto:cespinosad@uh.edu)
