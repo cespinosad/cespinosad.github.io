@@ -87,6 +87,18 @@ sections:
       #   `title`, `organization`, and `date_start` are the required parameters.
       items:
         - certificate_url: ''
+          date_start: '2026-08-01'
+          show_date: false
+          date_end: '2027-08-01'
+          organization: Professor
+          organization_url: ''
+          title: University of Houston
+          url: ''
+          description: |2-
+              PhD Macroeconometrics  \
+              Prof. Cristian Espinosa \
+              Fall 2026 
+        - certificate_url: ''
           date_start: '2019-09-01'
           show_date: false
           date_end: '2025-09-01'
