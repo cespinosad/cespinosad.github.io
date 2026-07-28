@@ -43,16 +43,16 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
     
-  - block: collection
-    id: jmp
-    content:
-      title: Job Market paper
-      filters:
-        folders:
-          - jmp
-    design:
-      columns: '2'
-      view: card    
+  #- block: collection
+  #  id: jmp
+  #  content:
+  #    title: Job Market paper
+  #    filters:
+  #      folders:
+  #        - jmp
+  #  design:
+  #    columns: '2'
+  #    view: card    
   - block: collection
     id: working
     content:
