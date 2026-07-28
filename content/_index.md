@@ -97,11 +97,11 @@ sections:
           description: |2-
               MSc Times Series Econometrics  \
               Profs. Raffaella Giacomini and Saleem Bahaj \
-              Spring 2020 - 2025 \
+              Spring 2020-2025 \
               \
               BSc Econometrics for Macroeconomics and Finance \
               Prof. Dennis Kristensen \
-              Fall 2021 - 2023 \
+              Fall 2021-2023 \
               \
               BSc The Economics of Money and Banking \
               Prof. Silvia Dalbianco \
@@ -120,7 +120,7 @@ sections:
               \
               BSc Econometrics I \
               Prof Andres Sagner \
-              Fall 2010 - 2012
+              Fall 2010-2012
         - certificate_url: ''
           date_start: '2011-01-01'
           date_end: '2012-12-31'
@@ -131,7 +131,7 @@ sections:
           description: |2-
               MSc Econometric Theory \
               Prof. Rodrigo Montero \
-              Spring 2011 - 2012 \
+              Spring 2011-2012 \
               \
               Bsc Macroeconomics II  \
               Profs. Ricardo Mayer and Rodrigo Montero  \
