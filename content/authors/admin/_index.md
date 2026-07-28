@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Candidate in Economics
+role: Assistant Professor of Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: University College London (UCL)
-    url: https://www.ucl.ac.uk/economics/ucl-department-economics
+  - name: University of Houston
+    url: [https://www.ucl.ac.uk/economics/ucl-department-economics](https://www.uh.edu/class/economics/people/current-faculty/espinosa/index.php)
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -31,7 +31,7 @@ social:
     link: uploads/CV_Cristian_Espinosa.pdf
   - icon: envelope
     icon_pack: fas
-    link: mailto:cristian.espinosa@ucl.ac.uk
+    link: mailto:cespinosad@uh.edu
   #- icon: linkedin
   #  icon_pack: fab
   #  link: http://linkedin.com/in/cristian-espinosa-201a5158
@@ -44,13 +44,11 @@ social:
 
 ---
 
-I am a PhD candidate in Economics at UCL. My supervisors are [Morten O. Ravn](https://sites.google.com/view/mortenoravn/home) and [Franck Portier](https://fportier.wordpress.com).
+I am an Assistant Professor in the Department of Economics at the University of Houston.
 
-My Research areas are International Economics and Empirical Macroeconomics.
+My research areas are international economics and empirical macroeconomics. My current research focuses on trade policy and the effects of import tariffs at the aggregate and industry levels.
 
-I received the [Best Paper Award](uploads/Certificate.pdf) at the Annual GEP/CEPR Postgraduate Conference
-
-In Fall 2025, I will be joining the [University of Houston](https://uh.edu/class/economics/) as an Assistant Professor.
+I obtained my PhD from University College London (UCL). Before joining the University of Houston, I worked at the Central Bank of Chile.
 
 Access my [JMP](uploads/JMP_Cristian_Espinosa.pdf) \
 Download my [CV](uploads/CV_Cristian_Espinosa.pdf)                                                                                                                                                                  
