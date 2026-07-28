@@ -50,5 +50,5 @@ I work in international economics and empirical macroeconomics. My research focu
 
 I obtained my PhD from University College London (UCL). Before joining the University of Houston, I worked as an analyst at the Central Bank of Chile.
 
-# Download my [CV](uploads/CV_Cristian_Espinosa.pdf)                                                                                                                                                                  
-# Email: [cespinosad@uh.edu](mailto:cespinosad@uh.edu)
+#Download my [CV](uploads/CV_Cristian_Espinosa.pdf)                                                                                                                                                                  
+#Email: [cespinosad@uh.edu](mailto:cespinosad@uh.edu)
