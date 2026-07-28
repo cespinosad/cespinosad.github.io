@@ -50,6 +50,5 @@ My research areas are international economics and empirical macroeconomics. My c
 
 I obtained my PhD from University College London (UCL). Before joining the University of Houston, I worked at the Central Bank of Chile.
 
-Access my [JMP](uploads/JMP_Cristian_Espinosa.pdf) \
-Download my [CV](uploads/CV_Cristian_Espinosa.pdf)                                                                                                                                                                  
-Email: [cristian.espinosa@ucl.ac.uk](mailto:cristian.espinosa@ucl.ac.uk)
+Download my [CV](uploads/CV_Cristian_Espinosa.pdf) \                                                                                                                                                                 
+Email: [cespinosad@uh.edu](mailto:cespinosad@uh.edu)
