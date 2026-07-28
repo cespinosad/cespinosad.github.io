@@ -1,9 +1,8 @@
 ---
-title: "The Macroeconomic Effect of Modern Protectionism"
+title: "From Protection to Retaliation: The Welfare Cost of Tariffs"
 authors:
 - Cristian Espinosa
-
-date: "2022-09-30T00:00:00Z"
+date: "2024-09-01"
 # show_date: false
 doi: ""
 
@@ -17,21 +16,19 @@ publication_types: ["article-journal"]
 publication: ""
 publication_short: ""
 
-abstract: "This paper estimates the dynamic effects of import tariffs on key macroeconomic aggregates in a small open economy. Due to the countercyclical profile of tariffs, simultaneity between tariffs and GDP induces attenuation bias in the calculation of impulse response functions. To address this issue, we develop a novel instrument based on retaliatory tariffs, constructed from a database of temporary trade barriers. Retaliatory tariff rates are constrained by the World Trade Organization (WTO) to match those imposed by trade partners. The identifying assumption is that tariffs imposed by trade partners are orthogonal to the own economic activity shocks. Retaliation responds to a foreign partner's defection rather than to domestic economic conditions, allowing the identification of an exogenous import tariff shock using an Proxy-SVAR model. Our key findings are that an increase in tariffs: (i) is inflationary (for consumer prices); (ii) has a negative and quite persistent impact on GDP; and (iii) worsens the trade balance on impact. The results are robust across various alternative specifications and the estimated effects exceed those obtained using standard timing restriction models."
+abstract: "This paper explores the welfare costs of trade impediments, which depend on trade elasticities. State-of-the-art literature uses tariffs as instruments to structurally identify them. Studies using Trump tariffs in the US estimate modest elasticities, implying low welfare costs. In this paper, I build a model of political economy to explain these results and introduce a novel identification strategy for estimating them. The model features a selection mechanism for goods chosen for treatment, based on the government’s objective function and the state of the economy. When raising revenue, the government imposes tariffs on sectors with low demand elasticity and strong lobbying power. In response, the other country retaliates by targeting goods with high demand elasticity to maximize economic harm on the trade partner. This model provides a framework for two possible instruments: protectionist and retaliatory tariffs. As trade policy targets the extremes of the elasticity distribution, Trump’s protectionism aligns with the observed low elasticity estimates. In this paper, I find the demand elasticity for imports ranges between 2.5 and 5.2, while the supply elasticity of exports is zero. This suggests that welfare costs could double, reaching up to $22 billion."
 
-# links:
+
+# links: uploads/resume.pdf
 # - name: ""
 #   url: ""
-url_pdf: uploads/The_Macroeconomic_Effect_of_Modern_Protectionism.pdf
+url_pdf: uploads/JMP_Cristian_Espinosa.pdf
 
 ---
+
 ### Abstract:
 
-This paper estimates the dynamic effects of import tariffs on key macroeconomic aggregates in a small open economy. Due to the countercyclical profile of tariffs, simultaneity between tariffs and GDP induces attenuation bias in the calculation of impulse response functions. To address this issue, we develop a novel instrument based on retaliatory tariffs, constructed from a database of temporary trade barriers. Retaliatory tariff rates are constrained by the World Trade Organization (WTO) to match those imposed by trade partners. The identifying assumption is that tariffs imposed by trade partners are orthogonal to the own economic activity shocks. Retaliation responds to a foreign partner's defection rather than to domestic economic conditions, allowing the identification of an exogenous import tariff shock using an Proxy-SVAR model. Our key findings are that an increase in tariffs: (i) is inflationary (for consumer prices); (ii) has a negative and quite persistent impact on GDP; and (iii) worsens the trade balance on impact. The results are robust across various alternative specifications and the estimated effects exceed those obtained using standard timing restriction models.
-
-&NewLine;
-&NewLine;
-&NewLine;
+This paper explores the welfare costs of trade impediments, which depend on trade elasticities. State-of-the-art literature uses tariffs as instruments to structurally identify them. Studies using Trump tariffs in the US estimate modest elasticities, implying low welfare costs. In this paper, I build a model of political economy to explain these results and introduce a novel identification strategy for estimating them. The model features a selection mechanism for goods chosen for treatment, based on the government’s objective function and the state of the economy. When raising revenue, the government imposes tariffs on sectors with low demand elasticity and strong lobbying power. In response, the other country retaliates by targeting goods with high demand elasticity to maximize economic harm on the trade partner. This model provides a framework for two possible instruments: protectionist and retaliatory tariffs. As trade policy targets the extremes of the elasticity distribution, Trump’s protectionism aligns with the observed low elasticity estimates. In this paper, I find the demand elasticity for imports ranges between 2.5 and 5.2, while the supply elasticity of exports is zero. This suggests that welfare costs could double, reaching up to $22 billion.
 
 
 
