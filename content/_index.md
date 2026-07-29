@@ -96,7 +96,6 @@ sections:
           url: ''
           description: |2-
               PhD Macroeconometrics  \
-              Prof. Cristian Espinosa \
               Fall 2026 
         - certificate_url: ''
           date_start: '2019-09-01'
