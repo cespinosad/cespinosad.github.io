@@ -153,7 +153,7 @@ sections:
           date_end: '2010-12-31'
           organization: Teaching Assistant
           organization_url: ''
-          title: Institute of Banking Studies
+          title: Guillermo Subercaseaux Institute of Banking Studies
           url: ''
           description: |2-
               BSc Financial Econometrics \
